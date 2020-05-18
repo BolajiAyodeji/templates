@@ -1,7 +1,7 @@
 // Describe the title of your article by replacing "Tutorial template" with the page name you want to publish to in Confluence.
 = Tutorial template
 // Article variables (delete the `// comments` and add in the values)
-:description: // Summarise what this tutorial is about in a sentence or two. What you put here is reused in the Goal section and included in HTML description tags.
+:description: // Summarize what this tutorial is about in a sentence or two. What you put here is reused in the Goal section and included in HTML description tags.
 :keywords: // These are comma-separated tags.
 :experimental: // Enables UI Macros for Menu transitions and Keyboard shortcuts.
 
